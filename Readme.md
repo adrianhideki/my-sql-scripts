@@ -1,3 +1,1 @@
-[GitHub](github.com)
-
-[Google](google.com)
+My SQL Scripts
