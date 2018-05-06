@@ -6,11 +6,11 @@
 
 3. Run the service SQL Browser;
 
-4. On sql configuration manager:
+4. On SQL Server Configuration Manager:
   - Network configurations
-    - Protocols ```your instance``` name>
+    - Protocols ```your instance name```
       - TCP/IP - Right Click / Click into Properties:
-        - IP Adress > Choose a IP > set the TCP Port to 1433 > set dynamic port to '' (void) > apply and ok;
+        - IP Adress > **Choose a IP** > set the TCP Port to ```1433``` > set dynamic port to '' (void) > apply and ok;
 
 5. Restart the SQL Server Service;
 
